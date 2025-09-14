@@ -1,0 +1,94 @@
+{
+  "anytime": [
+    "Hey"
+    
+  ],
+  "morning": [
+    "Good morning, sunshine!",
+    "Have a good day",
+    "You've got this!",
+    "Guten Morgen!"
+  ],
+  "afternoon": [
+    "Good afternoon",
+    "Take time for yourself",
+    "Be kind",
+    "Guten Tag!"
+  ],
+  "evening": [
+    "Good evening",
+    "You are making a difference.",
+    "The day was better for your efforts.",
+    "Guten Abend"
+  ],
+  "day_sunny": [
+    "The Sun will be out today",
+    "It's still sunny",
+    "I, I love the colorful clothes she wears.\n And the way the sunlight plays upon her hair."
+  ],
+  "rain": [
+    "It's a raincoat kind of day.",
+    "Looks like rain today",
+    "Days like this make you wet ;)",
+    "It's raining."
+  ],
+  "day_cloudy": [
+    "It is cloudy out there"
+  ],
+  "cloudy": [
+    "The forcast calls for clouds",
+    "Overcast kind of day"
+  ],
+  "night_clear": [
+    "Think about getting the telescope out tonight",
+    "Clear night to see the stars",
+    "Nice and clear tonight"
+  ],
+  "night_rain": [
+    "Rain overnight, tonight",
+    "The forcast looks like rain tonight"
+  ],
+  "night_showers": [
+    "Light showers tonight"
+  ],
+  "showers": [
+    "Expect showers today",
+    "Light rain in the forcast"
+  ],
+  "fog": [
+    "Fog is expected, be cautionous.",
+    "Take extra care driving, there is fog out there",
+    "The fog rolls in on little cat feet"
+  ],
+  "snow": [
+    "Hope for a snow day!",
+    "Smells like snow outside!",
+    "Looks like snow"
+  ],
+  "night_snow": [
+    "Possible snow overnight",
+    "It may snow tonight",
+    "You may get several inches tonight...of snow"
+  ],
+  "....-11-03": [
+    "Happy Birthday, Danielle!!",
+    "It's Dani's Birthday!",
+    "Let's give Danielle some Birthday spankings!"
+  ],
+  "....-10-31": [
+    "Boooo!",
+    "Happy Halloween!",
+    "The veil between the living and the dead is at its thinnest tonight.",
+    "Welcome, foolish mortals",
+    "We find it delightfully unlivable here in this ghostly retreat.",
+    "Do not pull down on the safety bar, please.\n I will lower it for you.",
+    "Serpents and spiders, tail of a rat, call in the spirits, wherever they’re at!"
+  ],
+  "....-01-07": [
+    "Happy Birthday, Mike!"
+  ],
+  "....-12-25": [
+    "Merry Christmas!",
+    "Happy Holidays!"
+  ]
+}
