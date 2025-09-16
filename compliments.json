@@ -39,6 +39,11 @@
     "The forcast calls for clouds",
     "Overcast kind of day"
   ],
+  "night_cloudy": [
+    "Even though the stars are hidden, I can still feel the magic in the air.",
+    "The clouds make the night feel cozy and mysterious",
+  ],  
+  ],
   "night_clear": [
     "Think about getting the telescope out tonight",
     "Clear night to see the stars",
