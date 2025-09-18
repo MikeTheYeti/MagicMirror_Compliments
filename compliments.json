@@ -8,23 +8,23 @@
   ],
    "....-9-19": [
      "19 Days Until Disney!"
-   ],
+   
   ],
    "....-9-20": [
      "18 Days Until Disney!"
-   ],
+   
   ],
    "....-9-21": [
      "17 Days Until Disney!"
-   ],
+  
   ],
    "....-9-22": [
      "16 Days Until Disney!"
-   ],
+   
   ],
    "....-9-23": [
      "15 Days Until Disney!"
-   ],
+  
   ],
    "....-9-24": [
      "14 Days Until Disney!"
@@ -56,11 +56,11 @@
     "Don't forget your raincoat.",
     "Looks like rain today",
     "Days like this make you wet ;)",
-    "It's raining."
+    "It's raining.",
     "When life throws you a rainy day, play in the puddles."
   ],
   "day_cloudy": [
-    "It is cloudy out there"
+    "It is cloudy out there",
     "It's so cloudy, the spy satellites cannot see you.",
     "Overcast days are no bother; you are my sun."
     
