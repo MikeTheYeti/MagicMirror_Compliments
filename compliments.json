@@ -1,35 +1,29 @@
 {
   "anytime": [
-    "Hey",  
+    "Hey"
   ],
-   "....-09-18": [
-     "20 Days Until Disney!"
-  
+  "....-09-18": [
+    "20 Days Until Disney!"
   ],
-   "....-09-19": [
-     "19 Days Until Disney!"
-   
+  "....-09-19": [
+    "19 Days Until Disney!"
   ],
-   "....-09-20": [
-     "18 Days Until Disney!"
-   
+  "....-09-20": [
+    "18 Days Until Disney!"
   ],
-   "....-09-21": [
-     "17 Days Until Disney!"
-  
+  "....-09-21": [
+    "17 Days Until Disney!"
   ],
-   "....-09-22": [
-     "16 Days Until Disney!"
-   
+  "....-09-22": [
+    "16 Days Until Disney!"
   ],
-   "....-09-23": [
-     "15 Days Until Disney!"
-  
+  "....-09-23": [
+    "15 Days Until Disney!"
   ],
-   "....-09-24": [
-     "14 Days Until Disney!"
-   ],
-    "morning": [
+  "....-09-24": [
+    "14 Days Until Disney!"
+  ],
+  "morning": [
     "Good morning, sunshine!",
     "Have a good day",
     "You've got this!",
@@ -63,16 +57,15 @@
     "It is cloudy out there",
     "It's so cloudy, the spy satellites cannot see you.",
     "Overcast days are no bother; you are my sun."
-    
   ],
   "cloudy": [
-    "The forcast calls for clouds",
+    "The forecast calls for clouds",
     "Overcast kind of day"
   ],
   "night_cloudy": [
     "Even though the stars are hidden, I can still feel the magic in the air.",
-    "The clouds make the night feel cozy and mysterious",
-  ],  
+    "The clouds make the night feel cozy and mysterious"
+  ],
   "night_clear": [
     "Think about getting the telescope out tonight",
     "Clear night to see the stars",
@@ -80,17 +73,17 @@
   ],
   "night_rain": [
     "Rain overnight, tonight",
-    "The forcast looks like rain tonight"
+    "The forecast looks like rain tonight"
   ],
   "night_showers": [
     "Light showers tonight"
   ],
   "showers": [
     "Expect showers today",
-    "Light rain in the forcast"
+    "Light rain in the forecast"
   ],
   "fog": [
-    "Fog is expected, be cautionous.",
+    "Fog is expected, be cautious.",
     "Take extra care driving, there is fog out there",
     "The fog rolls in on little cat feet"
   ],
@@ -117,7 +110,7 @@
     "We find it delightfully unlivable here in this ghostly retreat.",
     "Do not pull down on the safety bar, please.\n I will lower it for you.",
     "Serpents and spiders, tail of a rat, call in the spirits, wherever they’re at!"
-  ],
+ ],
   "....-01-07": [
     "Happy Birthday, Mike!"
   ],
