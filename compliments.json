@@ -27,13 +27,17 @@
     "I, I love the colorful clothes she wears.\n And the way the sunlight plays upon her hair."
   ],
   "rain": [
-    "It's a raincoat kind of day.",
+    "Don't forget your raincoat.",
     "Looks like rain today",
     "Days like this make you wet ;)",
     "It's raining."
+    "When life throws you a rainy day, play in the puddles."
   ],
   "day_cloudy": [
     "It is cloudy out there"
+    "It's so cloudy, the spy satellites cannot see you.",
+    "Overcast days are no bother; you are my sun."
+    
   ],
   "cloudy": [
     "The forcast calls for clouds",
