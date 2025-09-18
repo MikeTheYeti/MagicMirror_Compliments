@@ -63,7 +63,9 @@
     "1 Day Until Disney!"
   ],
   "2025-10-08": [
-    "Tomorrow is Disney Day!"
+    "Tomorrow is Disney Day!",
+    "Don't forget to check-in for your flight.",
+    "The flight boards at 0530 in the morning."
   ],
   "2025-10-09": [
     "It's Disney Day!"
@@ -149,4 +151,18 @@
   ],
   "....-10-31": [
     "Boooo!",
-    "Happy Halloween
+    "Happy Halloween",
+    "The veil between the living and the dead is at its thinnest tonight.",
+    "Welcome, foolish mortals",
+    "We find it delightfully unlivable here in this ghostly retreat.",
+    "Do not pull down on the safety bar, please.\n I will lower it for you.",
+    "Serpents and spiders, tail of a rat, call in the spirits, wherever they’re at!"
+ ],
+  "....-01-07": [
+    "Happy Birthday, Mike!"
+  ],
+  "....-12-25": [
+    "Merry Christmas!",
+    "Happy Holidays!"
+  ]
+}   
