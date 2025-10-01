@@ -1,6 +1,7 @@
 {
   "anytime": [
-    "Danielle, I want your booty."
+    "Danielle, put on something sexy.",
+    "Hey, I love you."
   ],
   "2025-09-18": [
     "20 Days Until Disney!"
@@ -86,7 +87,7 @@
     "Guten Abend"
   ],
   "day_sunny": [
-    "The Sun will be out today",
+    "Sun",
     "It's still sunny",
     "I...I love the colorful\n clothes she wears.\n And the way the sunlight\n plays upon her hair."
   ],
@@ -106,8 +107,7 @@
     "The forecast calls for clouds",
     "Overcast kind of day"
   ],
-  "night_cloudy": [
-    "Even though the stars are hidden, I can still feel the magic in the air.",
+  "night_ cloudy": [
     "The clouds make the night feel cozy and mysterious"
   ],
   "night_clear": [
