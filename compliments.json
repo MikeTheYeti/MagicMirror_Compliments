@@ -4,9 +4,9 @@
     "Study for CISSP!"
   ],
   "morning": [
-    "Good morning, sunshine!",
+    "Good morning, Tulip!",
     "Have a good day",
-    "You've got this!",
+    "Guten Morgen, meine Miezekätzchen",
     "Guten Morgen!"
   ],
   "afternoon": [
@@ -20,11 +20,12 @@
   ],
   "day_sunny": [
     "Sun",
+    "The sunlight looks pretty in Dani's hair",
     "It's still sunny"
   ],
   "rain": [
     "Don't forget your raincoat.",
-    "Looks like rain today",
+    "We always make love when it rains",
     "Days like this make you wet ;)",
     "It's raining.",
     "When life throws you a rainy day, play in the puddles."
@@ -35,7 +36,6 @@
     "Overcast days are no bother; you are my sun."
   ],
   "cloudy": [
-    "The forecast calls for clouds",
     "Overcast kind of day"
   ],
   "night_ cloudy": [
@@ -47,8 +47,8 @@
     "Nice and clear tonight"
   ],
   "night_rain": [
-    "Rain overnight, tonight",
-    "The forecast looks like rain tonight"
+    "and the rain rain rain\ncame down down down",
+    "rain tonight"
   ],
   "night_showers": [
     "Light showers tonight"
