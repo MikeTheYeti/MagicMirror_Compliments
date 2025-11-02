@@ -1,7 +1,7 @@
 {
   "anytime": [
     "Hey",
-    "Study for CISSP!"
+    "You look very pretty."
   ],
   "morning": [
     "Good morning, Tulip!",
@@ -11,7 +11,7 @@
   ],
   "afternoon": [
     "Good afternoon",
-    "Take time for yourself",
+    "I love you.",
     "Guten Tag!"
   ],
   "evening": [
@@ -92,5 +92,54 @@
   "....-12-25": [
     "Merry Christmas!",
     "Happy Holidays!"
+  ],
+  "2025-11-02": [
+    "100 Days Until Pitchers and Catchers Report."
+  ],
+  "2025-11-09": [
+    "95 Days Until Pitchers and Catchers Report."
+  ],
+  "2025-11-16": [
+    "90 Days Until Pitchers and Catchers Report."
+  ],
+  "2025-11-23": [
+    "85 Days Until Pitchers and Catchers Report."
+  ],
+  "2025-11-30": [
+    "80 Days Until Pitchers and Catchers Report."
+  ],
+  "2025-12-07": [
+    "75 Days Until Pitchers and Catchers Report."
+  ],
+  "2025-12-14": [
+    "70 Days Until Pitchers and Catchers Report."
+  ],
+  "2025-12-21": [
+    "65 Days Until Pitchers and Catchers Report."
+  ],
+  "2025-12-28": [
+    "60 Days Until Pitchers and Catchers Report."
+  ],
+  "2026-01-04": [
+    "55 Days Until Pitchers and Catchers Report."
+  ],
+  "2026-01-11": [
+    "50 Days Until Pitchers and Catchers Report."
+  ],
+  "2026-01-18": [
+    "45 Days Until Pitchers and Catchers Report."
+  ],
+  "2026-01-25": [
+    "40 Days Until Pitchers and Catchers Report."
+  ],
+  "2026-02-01": [
+    "35 Days Until Pitchers and Catchers Report."
+  ],
+  "2026-02-08": [
+    "30 Days Until Pitchers and Catchers Report."
+  ],
+  "2026-02-10": [
+    "Pitchers and Catchers Report Today!",
+    "Let's go Red Sox!"
   ]
 }   
