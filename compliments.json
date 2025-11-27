@@ -6,8 +6,7 @@
   "morning": [
     "Good morning, Tulip!",
     "Have a good day",
-    "Guten Morgen, meine Miezekätzchen",
-    "Guten Morgen!"
+    "Guten Morgen, meine Miezekätzchen"
   ],
   "afternoon": [
     "Good afternoon",
@@ -28,7 +27,7 @@
     "We always make love when it rains",
     "Days like this make you wet ;)",
     "It's raining.",
-    "When life throws you a rainy day, play in the puddles."
+    "When life throws you a rainy day,\nplay in the puddles."
   ],
   "day_cloudy": [
     "It is cloudy out there",
@@ -93,53 +92,89 @@
     "Merry Christmas!",
     "Happy Holidays!"
   ],
-  "2025-11-02": [
-    "100 Days Until Pitchers and Catchers Report."
+"2025-11-27": [
+    "74 Days Until Pitchers and Catchers Report.",
+    "Happy Thanksgiving!",
+    "Gobble, Gobble!",
+    "I am thankful for you."
   ],
-  "2025-11-09": [
-    "95 Days Until Pitchers and Catchers Report."
-  ],
-  "2025-11-16": [
-    "85 Days Until Pitchers and Catchers Report."
-  ],
-  "2025-11-21": [
-    "80 Days Until Pitchers and Catchers Report."
-  ],
-  "2025-11-30": [
-    "80 Days Until Pitchers and Catchers Report."
-  ],
-  "2025-12-07": [
-    "75 Days Until Pitchers and Catchers Report."
-  ],
-  "2025-12-14": [
+  "2025-12-02": [
     "70 Days Until Pitchers and Catchers Report."
   ],
-  "2025-12-21": [
+  "2025-12-07": [
     "65 Days Until Pitchers and Catchers Report."
   ],
-  "2025-12-28": [
+  "2025-12-12": [
     "60 Days Until Pitchers and Catchers Report."
   ],
-  "2026-01-04": [
+  "2025-12-17": [
     "55 Days Until Pitchers and Catchers Report."
   ],
-  "2026-01-11": [
+  "2025-12-22": [
     "50 Days Until Pitchers and Catchers Report."
   ],
-  "2026-01-18": [
+  "2025-12-27": [
     "45 Days Until Pitchers and Catchers Report."
   ],
-  "2026-01-25": [
+  "2026-01-01": [
     "40 Days Until Pitchers and Catchers Report."
   ],
-  "2026-02-01": [
+  "2026-01-06": [
     "35 Days Until Pitchers and Catchers Report."
   ],
-  "2026-02-08": [
+  "2026-01-11": [
     "30 Days Until Pitchers and Catchers Report."
+  ],
+  "2026-01-16": [
+    "25 Days Until Pitchers and Catchers Report."
+  ],
+  "2026-01-21": [
+    "20 Days Until Pitchers and Catchers Report."
+  ],
+  "2026-01-26": [
+    "15 Days Until Pitchers and Catchers Report."
+  ],
+  "2026-01-31": [
+    "10 Days Until Pitchers and Catchers Report."
+  ],
+  "2026-02-05": [
+    "5 Days Until Pitchers and Catchers Report."
   ],
   "2026-02-10": [
     "Pitchers and Catchers Report Today!",
     "Let's go Red Sox!"
-  ]
+  ],
+  "2025-12-07": [
+    "100 Days Until the World Baseball Classic."
+  ],
+  "2025-12-17": [
+    "90 Days Until the World Baseball Classic."
+  ],
+  "2025-12-27": [
+    "80 Days Until the World Baseball Classic."
+  ],
+  "2026-01-06": [
+    "70 Days Until the World Baseball Classic."
+  ],
+  "2026-01-16": [
+    "60 Days Until the World Baseball Classic."
+  ],
+  "2026-01-26": [
+    "50 Days Until the World Baseball Classic."
+  ],
+  "2026-02-05": [
+    "40 Days Until the World Baseball Classic."
+  ],
+  "2026-02-15": [
+    "30 Days Until the World Baseball Classic."
+  ],
+  "2026-02-25": [
+    "20 Days Until the World Baseball Classic."
+  ],
+  "2026-03-06": [
+    "10 Days Until the World Baseball Classic."
+  ],
+  "2026-03-17": [
+    "World Baseball Classic Begins Today!"
+  ],
 }   
