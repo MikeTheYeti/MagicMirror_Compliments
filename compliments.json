@@ -1,10 +1,11 @@
 {
   "anytime": [
     "Hey",
-    "You look very pretty."
+    "You look very pretty.",
+    "Brook's Home!!!"
   ],
   "morning": [
-    "Good morning, Tulip!",
+    "Meow*\n*That means\nGood Morning, Brook!",
     "Have a good day",
     "Guten Morgen, meine Miezekätzchen"
   ],
@@ -25,7 +26,6 @@
   "rain": [
     "Don't forget your raincoat.",
     "We always make love when it rains",
-    "Days like this make you wet ;)",
     "It's raining.",
     "When life throws you a rainy day,\nplay in the puddles."
   ],
@@ -42,8 +42,7 @@
   ],
   "night_clear": [
     "Think about getting the telescope out tonight",
-    "Clear night to see the stars",
-    "Nice and clear tonight"
+    "Clear night to see the stars"
   ],
   "night_rain": [
     "and the rain rain rain\ncame down down down",
@@ -68,8 +67,7 @@
   ],
   "night_snow": [
     "Possible snow overnight",
-    "It may snow tonight",
-    "You may get several inches tonight...of snow"
+    "It may snow tonight"
   ],
   "....-11-03": [
     "Happy Birthday, Danielle!!",
@@ -144,20 +142,14 @@
     "Pitchers and Catchers Report Today!",
     "Let's go Red Sox!"
   ],
-  "2025-12-07": [
-    "100 Days Until\nthe World Baseball Classic."
-  ],
-  "2025-12-17": [
-    "90 Days Until\nthe World Baseball Classic."
-  ],
-  "2025-12-27": [
-    "80 Days Until\nthe World Baseball Classic."
+  "2025-12-20": [
+    "75 Days Until\nthe World Baseball Classic."
   ],
   "2026-01-06": [
-    "70 Days Until\nthe World Baseball Classic."
+    "69 Days Until\nthe World Baseball Classic."
   ],
   "2026-01-16": [
-    "60 Days Until\nthe World Baseball Classic."
+    "59 Days Until\nthe World Baseball Classic."
   ],
   "2026-01-26": [
     "50 Days Until\nthe World Baseball Classic."
@@ -172,9 +164,6 @@
     "20 Days Until\nthe World Baseball Classic."
   ],
   "2026-03-06": [
-    "10 Days Until\nthe World Baseball Classic."
-  ],
-  "2026-03-17": [
-    "World Baseball Classic Begins Today!"
+    "World Baseball Classic starts today!"
   ]
-}   
+}
