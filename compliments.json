@@ -5,7 +5,7 @@
   ],
   "morning": [
     "Have a good day",
-    "Guten Morgen, meine Miezekätzchen"
+    "Guten Morgen,\nmeine Miezekätzchen"
   ],
   "afternoon": [
     "Good afternoon",
@@ -18,7 +18,7 @@
   ],
   "day_sunny": [
     "Sun",
-    "The sunlight looks pretty in Dani's hair",
+    "The sunlight looks pretty\nin Dani's hair",
     "It's still sunny"
   ],
   "rain": [
@@ -29,7 +29,7 @@
   "day_cloudy": [
     "It is cloudy out there",
     "It's so cloudy, the spy\nsatellites cannot see you.",
-    "Overcast days are no bother; you are my sun."
+    "Overcast days are no bother;\nyou are my sun."
   ],
   "cloudy": [
     "Overcast kind of day"
@@ -38,7 +38,7 @@
     "The clouds make the night\nfeel cozy and mysterious"
   ],
   "night_clear": [
-    "Think about getting the telescope out tonight",
+    "Think about getting the\ntelescope out tonight",
     "Clear night to see the stars"
   ],
   "night_rain": [
@@ -53,9 +53,9 @@
     "Light rain in the forecast"
   ],
   "fog": [
-    "Fog is expected, be cautious.",
+    "Fog is expected,\nbe cautious.",
     "Take extra care driving,\nthere is fog out there",
-    "The fog rolls in on little cat feet"
+    "The fog rolls in on\nlittle cat feet"
   ],
   "snow": [
     "Hope for a snow day!",
@@ -69,14 +69,14 @@
   "....-11-03": [
     "Happy Birthday, Danielle!!",
     "It's Dani's Birthday!",
-    "Let's give Danielle some Birthday spankings!"
+    "Let's give Danielle some\nBirthday spankings!"
   ],
   "....-10-31": [
     "Boooo!",
     "Happy Halloween",
-    "The veil between the living and the dead is at its thinnest tonight.",
+    "The veil between the living and\nthe dead is at its thinnest tonight.",
     "Welcome, foolish mortals",
-    "We find it delightfully unlivable here in this ghostly retreat.",
+    "We find it delightfully unlivable\nhere in this ghostly retreat.",
     "Do not pull down on the safety bar, please.\n I will lower it for you.",
     "Serpents and spiders,\ntail of a rat,\ncall in the spirits,\nwherever they’re at."
   ],
@@ -90,72 +90,64 @@
     "Happy Holidays!"
   ],
   "2026-05-13": [
-    "Game 2 vs the Phillies at Fenway - 6:45 PM ET."
+    "Game 2 vs Phillies at Fenway\n6:45 PM ET."
   ],
   "2026-05-14": [
-    "Sox vs Phillies series finale tonight at 6:45 PM ET."
+    "Sox vs Phillies series finale\ntonight at 6:45 PM ET."
   ],
   "2026-05-15": [
-    "Sox travel south! Red Sox @ Braves - 7:15 PM ET."
+    "Sox travel south!\nRed Sox @ Braves - 7:15 PM ET."
   ],
   "2026-05-16": [
-    "Saturday showdown. Red Sox @ Braves - 7:15 PM ET."
+    "Saturday showdown.\nRed Sox @ Braves - 7:15 PM ET."
   ],
   "2026-05-17": [
-    "Early first pitch! Red Sox @ Braves - 1:35 PM ET."
+    "Early first pitch!\nRed Sox @ Braves - 1:35 PM ET."
   ],
   "2026-05-18": [
-    "Sox head to Kansas City. Game starts at 7:40 PM ET."
+    "Sox head to Kansas City.\nGame starts at 7:40 PM ET."
   ],
   "2026-05-19": [
-    "Game 2 vs the Royals in KC at 7:40 PM ET."
+    "Game 2 vs the Royals\nin KC at 7:40 PM ET."
   ],
   "2026-05-20": [
-    "Sox vs Royals series finale at 7:40 PM ET."
+    "Sox vs Royals series finale\nat 7:40 PM ET."
   ],
   "2026-05-21": [
-    "Another travel day. Enjoy the break!"
+    "Another travel day.\nEnjoy the break!"
   ],
   "2026-05-22": [
-    "Home sweet home! Red Sox vs Twins at 7:10 PM ET."
+    "Home sweet home!\nRed Sox vs Twins at 7:10 PM ET."
   ],
   "2026-05-23": [
-    "Saturday afternoon ball. Red Sox vs Twins at 4:10 PM ET."
+    "Saturday afternoon ball.\nRed Sox vs Twins at 4:10 PM ET."
   ],
   "2026-05-24": [
-    "Sox vs Twins series finale at Fenway - 1:35 PM ET."
+    "Sox vs Twins series finale\nat Fenway - 1:35 PM ET."
   ],
   "2026-05-25": [
-    "Memorial Day break. No game scheduled today!"
+    "Memorial Day break.\nNo game scheduled today!"
   ],
   "2026-05-26": [
-    "Braves come to town. Red Sox vs Braves at 6:45 PM ET."
+    "Braves come to town.\nRed Sox vs Braves at 6:45 PM ET."
   ],
   "2026-05-27": [
-    "Game 2 vs the Braves at Fenway - 6:45 PM ET."
+    "Game 2 vs the Braves\nat Fenway - 6:45 PM ET."
   ],
   "2026-05-28": [
-    "Afternoon baseball! Red Sox vs Braves at 4:10 PM ET."
+    "Afternoon baseball!\nRed Sox vs Braves at 4:10 PM ET.",
+    "Season Opener!\nSea Unicorns at Bees - 10:35 AM."
   ],
   "2026-05-29": [
-    "Sox visit the Lakefront. Red Sox @ Guardians - 7:10 PM ET."
+    "Sox visit the Lakefront.\nRed Sox @ Guardians - 7:10 PM ET.",
+    "Sea Unicorns travel to\nWestfield Starfires at 6:30 PM."
   ],
   "2026-05-30": [
-    "Saturday night in Cleveland. First pitch at 4:10 PM ET."
+    "Saturday night in Cleveland.\nFirst pitch at 4:10 PM ET.",
+    "Home Opener at Dodd Stadium!\nSea Unicorns vs Bees at 6:30 PM."
   ],
   "2026-05-31": [
-    "Closing out May in Cleveland. Game starts at 1:40 PM ET."
-  ]
-  "2026-05-28": [
-    "Season Opener! Sea Unicorns at New Britain Bees - 10:35 AM."
-  ],
-  "2026-05-29": [
-    "Sea Unicorns travel to Westfield Starfires tonight at 6:30 PM."
-  ],
-  "2026-05-30": [
-    "Home Opener at Dodd Stadium! Sea Unicorns vs Bees at 6:30 PM."
-  ],
-  "2026-05-31": [
-    "Sunday Funday at the yard! Sea Unicorns vs Bravehearts at 1:00 PM."
+    "Closing out May in Cleveland.\nGame starts at 1:40 PM ET.",
+    "Sunday Funday at the yard!\nSea Unicorns vs Bravehearts - 1:00 PM."
   ]
 }
