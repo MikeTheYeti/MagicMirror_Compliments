@@ -1,7 +1,8 @@
 {
   "anytime": [
     "Hey",
-    "You look very pretty."
+    "You look very pretty.",
+    "Mike is eating keto.\nHe is getting healthy!"
   ],
   "morning": [
     "Have a good day",
@@ -14,7 +15,8 @@
   ],
   "evening": [
     "Good evening",
-    "Guten Abend"
+    "Guten Abend",
+    "Mike and Dani should go for a walk"
   ],
   "day_sunny": [
     "Sun",
