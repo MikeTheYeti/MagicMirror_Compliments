@@ -2,11 +2,11 @@
   "anytime": [
     "Hey",
     "You look very pretty.",
-    "Mike is eating keto.\\nHe is getting healthy!"
+    "Mike is eating keto.\nHe is getting healthy!"
   ],
   "morning": [
     "Have a good day",
-    "Guten Morgen,\\nmeine Miezekätzchen"
+    "Guten Morgen,\nmeine Miezekätzchen"
   ],
   "afternoon": [
     "Good afternoon",
@@ -21,31 +21,31 @@
   ],
   "day_sunny": [
     "Sun",
-    "The sunlight looks pretty\\nin Dani's hair",
+    "The sunlight looks pretty\nin Dani's hair",
     "It's still sunny"
   ],
   "rain": [
     "Don't forget your raincoat.",
     "It's raining.",
-    "When life throws you a rainy day,\\nplay in the puddles."
+    "When life throws you a rainy day,\nplay in the puddles."
   ],
   "day_cloudy": [
     "It is cloudy out there",
-    "It's so cloudy, the spy\\nsatellites cannot see you.",
-    "Overcast days are no bother;\\nyou are my sun."
+    "It's so cloudy, the spy\nsatellites cannot see you.",
+    "Overcast days are no bother;\nyou are my sun."
   ],
   "cloudy": [
     "Overcast kind of day"
   ],
   "night_cloudy": [
-    "The clouds make the night\\nfeel cozy and mysterious"
+    "The clouds make the night\nfeel cozy and mysterious"
   ],
   "night_clear": [
-    "Think about getting the\\ntelescope out tonight",
+    "Think about getting the\ntelescope out tonight",
     "Clear night to see the stars"
   ],
   "night_rain": [
-    "and the rain rain rain\\nncame down down down",
+    "and the rain rain rain\nncame down down down",
     "rain tonight"
   ],
   "night_showers": [
@@ -56,9 +56,9 @@
     "Light rain in the forecast"
   ],
   "fog": [
-    "Fog is expected,\\nbe cautious.",
-    "Take extra care driving,\\nthere is fog out there",
-    "The fog rolls in on\\nlittle cat feet"
+    "Fog is expected,\nbe cautious.",
+    "Take extra care driving,\nthere is fog out there",
+    "The fog rolls in on\nlittle cat feet"
   ],
   "snow": [
     "Hope for a snow day!",
@@ -72,16 +72,16 @@
   "....-11-03": [
     "Happy Birthday, Danielle!!",
     "It's Dani's Birthday!",
-    "Let's give Danielle some\\nBirthday spankings!"
+    "Let's give Danielle some\nBirthday spankings!"
   ],
   "....-10-31": [
     "Boooo!",
     "Happy Halloween",
-    "The veil between the living and\\nthe dead is at its thinnest tonight.",
+    "The veil between the living and\nthe dead is at its thinnest tonight.",
     "Welcome, foolish mortals",
-    "We find it delightfully unlivable\\nhere in this ghostly retreat.",
-    "Do not pull down on the safety bar, please.\\n I will lower it for you.",
-    "Serpents and spiders,\\ntail of a rat,\\ncall in the spirits,\\nwherever they're at."
+    "We find it delightfully unlivable\nhere in this ghostly retreat.",
+    "Do not pull down on the safety bar, please.\n I will lower it for you.",
+    "Serpents and spiders,\ntail of a rat,\ncall in the spirits,\nwherever they're at."
   ],
   "....-12-24": [
     "Santa Claus is coming tonight",
